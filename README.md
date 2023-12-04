@@ -7,5 +7,5 @@ html, css and javascript.
 
 <h2>Gif</h2>
 
-![](movie.gif)
+![](ekran.gif)
 
